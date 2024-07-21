@@ -1,3 +1,3 @@
 # machine-translation
 
-Machine translation between the English and Turkish languages using the umt5-small model.
+Fine-tuning the UMT5-small model for bidirectional machine translation between the English and Turkish languages.
